@@ -1,0 +1,74 @@
+body{
+  background-color: skyblue;
+  margin:0;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+div{
+  border-radius: 100%;
+  height:100%;
+  background-color: #6fd66f;
+  font-family: 'Lobster', cursive;
+  border-width: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  top:100px;
+  left: 300px;
+  padding-bottom: 100px;
+}
+.world{
+
+  height: 100px;
+  position: relative;
+  top: 200px;
+  bottom: 200px;
+}
+.baby{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+
+
+}
+.hello{
+  margin: 0;
+}
+.hello{
+
+  height: 100px;
+  position: relative;
+  top: 468px;
+  bottom: 100px;
+}
+.okk{
+  padding: 60px;
+  width: 200px;
+  height: 200px;
+}
+.contact{
+  margin: 0;
+}
+.contact{
+
+  height: 100px;
+  position: relative;
+  top: 800px;
+  bottom: 100px;
+}
+.message{
+  border-radius: 50%;
+  padding: 60px;
+  width: 300px;
+  height: 300px;
+}
+td{
+      height: 31px;
+      width: 329px;
+      text-align: right;
+      vertical-align: text-top;
+}
